@@ -1,6 +1,6 @@
 
 
-<p align="center">Amante da tecnologia e de filmes de terror. <br><br> Sou um Analista de Integração Júnior com grandes aspirações, meu objetivo é me tornar um Engenheiro de Dados. Sou apaixonado por tudo o que envolve o universo dos dados e estou em constante busca de aprimoramento. Com uma mente analítica e orientada para soluções, estou sempre disposto a compartilhar e colaborar com outros entusiastas de dados no GitHub.</p>&nbsp;
+<p align="center">Amante da tecnologia e de filmes de terror. <br><br> Sou um estudando de banco de dados pela faculdade FIT e Analista de Integração Júnior pela 4MDG, meu objetivo é me tornar um Engenheiro de Dados. Sou apaixonado por tudo o que envolve o universo dos dados e estou em constante busca de aprimoramento. Com uma mente analítica e orientada para soluções, estou sempre disposto a compartilhar e colaborar com outros entusiastas de dados no GitHub.</p>&nbsp;
 
 
  
